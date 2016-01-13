@@ -1,0 +1,92 @@
+body{
+    border-style:hidden;
+    background-color:white;
+    color:#0000ff;}
+header{
+    
+    background-color: beige;
+        
+}
+#search{
+     background-color: beige;
+    padding-bottom: 20px;
+}
+nav ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:powderblue;
+}
+    
+nav ul li {
+    float: left;
+}
+
+nav  a {
+    font color: coral;
+     margin:0;
+     display: block;
+     font-size: 30px;
+    align-content:left;
+     color:blue;
+     padding: 15px 55px 30px 0px;
+     text-align: center;
+     text-decoration: none;
+    
+    
+}
+
+li a:hover {
+    background-color:gray;
+    border-width:3px;
+}
+
+    
+    #pageFooter div {
+   float: left;
+   width: 341px;
+   padding-top: 25px;
+}
+#pageFooter div:first-child {
+  margin-left: 128px;
+}
+#pageFooter div h1{
+
+  font-size: 1em;
+  letter-spacing:1px;
+  color: #3c6b92;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
+#pageFooter div h2{
+ 
+  font-size: 1.5em;
+  letter-spacing:1px;
+  color: #666;
+  margin-bottom: 1em;
+}
+#pageFooter div p{
+ 
+  font-size: 1em;
+  margin-bottom: 1em;
+  color: #666;
+}
+#pageFooter div ul{
+  list-style: none;
+  margin: 0;
+  padding:0;
+}
+#pageFooter div li {
+  margin-bottom: 1em;
+}
+
+#pageFooter div li a:hover {
+  color: navy;
+  border: 2px;
+}
+section a {
+   width: 400px;
+    height:35opx;
+    
+}
