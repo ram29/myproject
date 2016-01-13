@@ -1,11 +1,16 @@
 body{
     border-style:hidden;
     background-color:white;
-    color:#0000ff;}
+    color:blue;}
 header{
     
     background-color: beige;
+    
         
+}
+header h1{
+    
+    color: darkred;
 }
 #search{
      background-color: beige;
@@ -24,12 +29,12 @@ nav ul li {
 }
 
 nav  a {
-    font color: coral;
+    color:coral;
      margin:0;
      display: block;
      font-size: 30px;
     align-content:left;
-     color:blue;
+     color:rebeccapurple;
      padding: 15px 55px 30px 0px;
      text-align: center;
      text-decoration: none;
@@ -47,6 +52,7 @@ li a:hover {
    float: left;
    width: 341px;
    padding-top: 25px;
+        
 }
 #pageFooter div:first-child {
   margin-left: 128px;
@@ -87,6 +93,7 @@ li a:hover {
 }
 section a {
    width: 400px;
-    height:35opx;
+    height:35px;
     
 }
+ 
